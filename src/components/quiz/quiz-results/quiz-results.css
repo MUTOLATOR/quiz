@@ -1,0 +1,7 @@
+.quiz-results {
+	padding: var(--gap-xl);
+	background: var(--color-light-bg-primary);
+	box-shadow: var(--shadow-xs-hard);
+	border-radius: var(--border-radius-m);
+	overflow: auto;
+}
