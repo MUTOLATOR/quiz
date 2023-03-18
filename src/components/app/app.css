@@ -1,3 +1,9 @@
 .app {
 	padding: var(--gap-8xl) 0;
 }
+
+@media (max-height: 720px) {
+	.app {
+		padding: var(--gap-3xl) 0;
+	}
+}

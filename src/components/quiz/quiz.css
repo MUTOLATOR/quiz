@@ -1,6 +1,8 @@
 .quiz {
 	width: 800px;
+	max-width: 100%;
 	margin: 0 auto;
+	padding: var(--gap-xl);
 }
 
 .centered {
@@ -10,5 +12,7 @@
 
 .settings {
 	width: 800px;
+	max-width: 100%;
 	margin: 0 auto;
+	padding: var(--gap-xl);
 }
