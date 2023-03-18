@@ -9,6 +9,13 @@ Quiz это React-приложение в котором вы можете пр�
 
 https://MUTOLATOR.github.io/quiz/
 
+### Стек технологий
+
+-   React
+-   State manager: redux toolkit + redux saga
+-   API: QuizAPI
+-   Code formatter: prettier
+
 ### Примеры работы приложения
 
 ![image](https://user-images.githubusercontent.com/128167661/225960044-a18f42f3-62b3-41f6-92bb-6504b382deda.png)
